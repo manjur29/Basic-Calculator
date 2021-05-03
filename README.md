@@ -8,10 +8,7 @@ I in this project I have created a basic calculator, wich contains some basic ca
 4. Multiplication
 5. Modular
 I do that using only front end web development.
-I have used :- 
-1. HTML
-2. CSS
-3. JavaScript
+I have used :- HTML, CSS and JavaScript
 
 
 
