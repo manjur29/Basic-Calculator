@@ -7,6 +7,11 @@ I in this project I have created a basic calculator, wich contains some basic ca
 3. Division
 4. Multiplication
 5. Modular
+
+
+
+
+
 I do that using only front end web development.
 I have used :- HTML, CSS and JavaScript
 
